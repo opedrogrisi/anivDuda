@@ -158,7 +158,7 @@ window.addEventListener("resize", e => (width = carousel.offsetWidth));
         author: "Justin Timberlake",
         title: "Mirrors",
         cover:
-          "/assets/MV5BN2E0YjhmMDYtOTkzOC00YTI5LWI5MGMtOThmODJhYTZmMjM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+          "MV5BN2E0YjhmMDYtOTkzOC00YTI5LWI5MGMtOThmODJhYTZmMjM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
       },
     ];
      
